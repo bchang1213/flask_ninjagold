@@ -1,0 +1,76 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	margin-top: 1em;
+	margin-left: 1em;
+}
+
+header{
+	background-color: #FFDE45;
+	width: 8em;
+}
+
+.goldscore{
+	margin-left: 1.2em;
+	vertical-align: top;
+	padding-bottom: .3em;
+}
+
+header p,.gold{
+	font-size: 10px;
+	display: inline;
+}
+
+
+header p{
+	background-color: black;
+	color: #FFDE45;
+}
+
+.gold{
+	background-color: white;
+	padding-right: 1em;
+	padding-left: 1em;
+}
+
+main{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+main div{
+	width: 6em;
+	display: inline-block;
+	border: 1px black solid;
+	padding: 5px 5px 5px 5px;
+}
+
+input[type=submit]{
+	font-size: 5px;
+	background-color: #FFF076;
+	color: black;
+	border: 1px black solid;
+	border-radius: 5px;
+	padding: 0px 2px 0px 2px;
+}
+
+.activities{
+	border: 1px #FFF076 solid;
+	width: 27em;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: black;
+}
+
+.activities h5{
+	color: white;
+}
+
+.message{
+	font-size: 7px;
+	color: #5FD346;
+}
